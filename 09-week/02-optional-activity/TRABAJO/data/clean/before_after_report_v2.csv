@@ -1,0 +1,10 @@
+,Antes,Después
+Filas,4417,4417
+Columnas,16,25
+"Celdas nulas o disfrazadas (NaN, guion, centinela)",8495,2235
+de ellas: guiones disfrazados,6380,0
+Fechas centinela (20000101),286,0
+Columnas de fecha con tipo datetime,0,2
+Etiquetas distintas sector17,34,18
+Tipos de instrumento identificables,0,3
+Columnas con bandera de calidad,0,4
