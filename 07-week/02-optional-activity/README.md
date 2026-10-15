@@ -1,9 +1,6 @@
 # Semana 7 · Consultas SQL y pandas
 
-```python
-FULL_NAME   = "Zara Melisa Monroy Vera"
-GITHUB_USER = "zara-mon2006"
-```
+## ESTUDIANTES: ZARA MELISA MONROY VERA E IVÁN DAVID CARDOZO CHARRY
 
 Asignatura: Ciencia de Datos · Ingeniería Industrial · CORHUILA · 2026-B · Corte 2.
 Guía de la actividad: *Semana 7 · Herramientas y lenguajes (SQL, NoSQL, Python)* (formativa, opcional).
